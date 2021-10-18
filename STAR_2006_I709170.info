@@ -5,6 +5,8 @@ Collider: RHIC
 InspireID: 709170
 Authors:
  - Yuanjing Ji <yuanjingji@lbl.gov>
+ - Bedanga Mohanty <bedanga@rcf.bnl.gov>
+ - Hendrik Hoeth <hendrik.hoeth@cern.ch>
 References:
  - 'Phys. Lett. B637, 161'
  - 'DOI:10.1016/j.physletb.2006.04.032'
