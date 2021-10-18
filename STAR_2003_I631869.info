@@ -1,0 +1,13 @@
+Name: STAR_2003_I631869
+Year: 2003
+Experiment: STAR
+Collider: RHIC
+InspireID: 631869
+Authors:
+ - Manny Rosales Aguilar maro323@uky.edu
+References:
+ - 'Phys.Rev.Lett. 92 (2004) 171801'
+ - 'DOI:10.1103/PhysRevLett.92.171801'
+ - 'arXiv:hep-ex/0310058'
+Beams: [p+, p+]
+Energies: [[100,100]]

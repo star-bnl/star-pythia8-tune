@@ -1,0 +1,13 @@
+Name: STAR_2019_I1771348
+Year: 2019
+Experiment: STAR
+Collider: RHIC
+InspireID: 1771348
+Authors:
+ - Raghav Kunnawalkam Elayavalli <raghav.ke@yale.edu>
+References:
+ - 'Phys.Rev.D 101 (2020) 5, 052004'
+ - 'DOI:10.1103/PhysRevD.101.052004'
+ - 'arXiv:1912.08187'
+Beams: [p+, p+]
+Energies: [[100,100]]

@@ -1,0 +1,13 @@
+Name: STAR_2021_I1853218
+Year: 2021
+Experiment: STAR
+Collider: RHIC
+InspireID: 1853218
+Authors:
+ - Isaac Mooney <fs3383@wayne.edu>
+References:
+ - 'Phys.Rev.D 104 (2021) 5, 052007'
+ - 'DOI:10.1103/PhysRevD.104.052007 '
+ - 'arXiv:2103.13286'
+Beams: [p+, p+]
+Energies: [[100,100]]

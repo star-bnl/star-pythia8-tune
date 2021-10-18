@@ -1,0 +1,13 @@
+Name: STAR_2012_I930463
+Year: 2012 
+Experiment: STAR 
+Collider: RHIC
+InspireID: 930463
+Authors:
+ -  Yuanjing Ji <yuanjingji@lbl.gov> 
+References:
+ - 'Phys.Rev.Lett. 108 (2012) 072302' 
+ - 'DOI:10.1103/PhysRevLett.108.072302'
+ - 'arXiv:1110.0579'
+Beams: [p+, p+]
+Energies: [[100,100]]

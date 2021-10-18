@@ -1,0 +1,14 @@
+Name: BRAHMS_2007_I742956
+Year: 2007
+Experiment: BRAHMS
+Collider: RHIC
+InspireID: 742956
+Authors:
+ - Manny Rosales Aguilar maro323@uky.edu
+References:
+ - 'Phys.Rev.Lett. 98 (2007) 252001'
+ - 'DOI:10.1103/PhysRevLett.98.252001'
+ - 'arXiv:hep-ex/0701041'
+Beams: [p+, p+]
+Energies: [[100,100]]
+
